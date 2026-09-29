@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Gbenga Thompson Awojinrin
-- 👀 I’m interested in data science and the energy industry, and like projects that bring these two fields together.
-- 🌱 I’m currently learning data analysis and machine learning, with a view to applying these to real world projects.
-- 💞️ I’m looking to collaborate on as many data analysis projects as I can wiggle myself into. 
-- 📫 You can always reach me at awojinringbengathompson@gmail.com
+# Gbenga Thompson Awojinrin
 
-<!---
-awojinrin/awojinrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD student in Petroleum Engineering at Texas A&M University, in Prof. Rami Younis's Computational Reservoir Engineering (CoRE) group. I work on machine learning and numerical methods for physics-based simulation, and on testing when a learned model can stand in for a classical solver.
+
+**Current work**
+- [LiL-Q](https://github.com/awojinrin/lilq-pinn): a convex quasilinearization method for training physics-informed models of nonlinear PDEs, with a guide for reproducing every result. Preprint: [arXiv:2606.18175](https://arxiv.org/abs/2606.18175)
+
+**Earlier work**
+- [Hole cleaning ML workflow](https://github.com/awojinrin/ML-Workflow-for-the-Determination-of-Hole-Cleaning-Conditions): ensemble models that predict cuttings concentration in oil wells from surface drilling data. The paper won first place in the SPE Africa Students' Paper Contest.
+
+**Tools:** Python, PyTorch, NumPy, SciPy, Scikit-learn, C++, MATLAB
+
+**Contact:** gbenga-awojinrin@tamu.edu | [LinkedIn](https://www.linkedin.com/in/awojinrin)
